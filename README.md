@@ -1,0 +1,2 @@
+Debido a su peso, la carpeta vendor ha sido dividida en 2 archivos Winrar, que se deben extraer y posteriormente juntar los archivos que hay dentro en una carpeta única.
+En mi caso, tampoco he añadido la carpeta node_modules.
